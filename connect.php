@@ -1,0 +1,1 @@
+<?php    $conn=mysqli_connect("localhost","netuser","4it3lq@YAHOO","salon");    if (mysqli_connect_errno())    {        echo "Failed to connect to MySQL: " . mysqli_connect_error();    }?>
